@@ -11,4 +11,4 @@ And this specific repository contains documentation about the Shopify CMS (conte
 <br/>
 &nbsp;
 
-[![Altium Designer](http://dicer0.com/wp-content/uploads/2023/10/p_Shopify_Admin.png)](https://dicer0.com/#skills)
+[![Shopify](http://dicer0.com/wp-content/uploads/2023/10/p_Shopify_Admin.png)](https://dicer0.com/#skills)
